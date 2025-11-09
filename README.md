@@ -19,11 +19,10 @@ The analysis focuses on turning raw train data into meaningful insights through 
 ## 🧰 Tools & Technologies
 | Category | Tools Used |
 |-----------|-------------|
-| Data Source | CSV file (`UK Train Rides new.csv`) |
-| Query Language | SQL |
-| Data Analysis | Python, Pandas |
-| Visualization | Matplotlib |
-| Environment | VS Code / Jupyter Notebook / Google Colab |
+| Data Source | CSV file (`UK Train Rides new.csv`)
+| Data Analysis | SQL, Python, Pandas |
+| Visualization | Matplotlib, Power BI |
+| Environment | MS SQL Server / VS Code / Jupyter Notebook / Google Colab |
 | Version Control | Git & GitHub |
 
 ---
