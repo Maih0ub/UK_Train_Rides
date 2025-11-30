@@ -65,14 +65,17 @@ UK_Train_Rides_Analysis/
 │   └── UK Train Rides new.csv
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── UK_Train_Rides_Analysis.ipynb
+│   └── Notebook.md
 │
 ├── sql/
-│   └── train_queries.sql
+│   └── UK_Train_Rides_Analysis.sql
+│   └── final_insights2.pdf
 │
 ├── visualizations/
-│   ├── busiest_routes.png
-│   └── monthly_trends.png
+│   └── UK_train_Rides_Analysis.pbix
 │
 ├── README.md
-└── requirements.txt
+└── UK_Train_Rides_Analysis_Source_Code.zip
+└── UK_Trains_Proposal.pdf
+
