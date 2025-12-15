@@ -1,4 +1,4 @@
-### Suggested Notebook Structure Improvements
+### Notebook Structure Improvements
 
 The current notebook structure generally follows a logical flow, moving from data loading and cleaning to exploratory analysis and visualization. However, some sections could be reordered or grouped to enhance the narrative and analytical coherence.
 
